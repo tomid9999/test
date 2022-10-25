@@ -1,0 +1,5 @@
+npk sensor
+ph sensor
+moisture sensor
+temperature sensor
+lcd display

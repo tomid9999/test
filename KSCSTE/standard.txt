@@ -1,0 +1,13 @@
+pH:-
+mildly acidic:-5.3-6.8
+Near Neutral:-6.8-8.0
+
+Moisture:-
+Dry:-(<40)
+Moderate:-(40<x<65)
+Wet:-(65<x<100)
+
+Temperature:-
+Cool:-(<23)
+Moderate:-(23<x<28)
+Hot:-(28<x<33)
